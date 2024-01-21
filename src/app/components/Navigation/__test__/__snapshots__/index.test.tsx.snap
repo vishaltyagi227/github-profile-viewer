@@ -1,0 +1,183 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Navigation /> Snapshot Should match with snapshot when user logged 1`] = `
+<nav>
+  <ul
+    className="makeStyles-navList-19"
+  >
+    <li
+      className="makeStyles-navItem-20"
+    >
+      <a
+        aria-current="page"
+        className="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root makeStyles-navLink-21 css-1e6y48t-MuiButtonBase-root-MuiButton-root makeStyles-active-22"
+        href="/"
+        onBlur={[Function]}
+        onClick={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        style={Object {}}
+        tabIndex={0}
+      >
+        Search
+        <span
+          className="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </a>
+    </li>
+    <li
+      className="makeStyles-navItem-20"
+    >
+      <a
+        aria-current={null}
+        className="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root makeStyles-navLink-21 css-1e6y48t-MuiButtonBase-root-MuiButton-root"
+        href="/follow"
+        onBlur={[Function]}
+        onClick={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+      >
+        Who to Follow
+        <span
+          className="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </a>
+    </li>
+    <li
+      className="makeStyles-navItem-20"
+    >
+      <a
+        aria-current={null}
+        className="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root makeStyles-navLink-21 css-1e6y48t-MuiButtonBase-root-MuiButton-root"
+        href="/profile"
+        onBlur={[Function]}
+        onClick={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+      >
+        Profile
+        <span
+          className="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </a>
+    </li>
+    <li
+      className="makeStyles-navItem-20"
+    >
+      <button
+        className="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root makeStyles-navLink-21 css-1e6y48t-MuiButtonBase-root-MuiButton-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        Logout
+        <span
+          className="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </li>
+  </ul>
+</nav>
+`;
+
+exports[`<Navigation /> Snapshot Should match with snapshot when user not login 1`] = `
+<nav>
+  <ul
+    className="makeStyles-navList-19"
+  >
+    <li
+      className="makeStyles-navItem-20"
+    >
+      <a
+        aria-current="page"
+        className="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root makeStyles-navLink-21 css-1e6y48t-MuiButtonBase-root-MuiButton-root makeStyles-active-22"
+        href="/"
+        onBlur={[Function]}
+        onClick={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        style={Object {}}
+        tabIndex={0}
+      >
+        Search
+      </a>
+    </li>
+    <li
+      className="makeStyles-navItem-20"
+    >
+      <a
+        aria-current={null}
+        className="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root makeStyles-navLink-21 css-1e6y48t-MuiButtonBase-root-MuiButton-root"
+        href="/login"
+        onBlur={[Function]}
+        onClick={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+      >
+        Login
+      </a>
+    </li>
+  </ul>
+</nav>
+`;

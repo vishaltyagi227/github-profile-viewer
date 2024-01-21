@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NotFound /> Snapshot Should match with Snapshot 1`] = `
+<div
+  className="MuiContainer-root MuiContainer-maxWidthLg makeStyles-notFoundContainer-4 css-1iin24e-MuiContainer-root"
+>
+  <div
+    className="makeStyles-notFoundWrapper-5"
+  >
+    <h3
+      className="MuiTypography-root MuiTypography-h3 css-q16rbx-MuiTypography-root"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium makeStyles-notFoundIcon-6 css-i4bv87-MuiSvgIcon-root"
+        data-testid="ErrorIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-2h2v2zm0-4h-2V7h2v6z"
+        />
+      </svg>
+      404
+    </h3>
+    <h3
+      className="MuiTypography-root MuiTypography-h3 css-q16rbx-MuiTypography-root"
+    >
+      Not Found
+    </h3>
+  </div>
+</div>
+`;

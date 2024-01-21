@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<InputField /> Snapshot Should match with snapshot 1`] = `
+<div
+  className="MuiFormControl-root MuiTextField-root makeStyles-input-3 css-1u3bzj6-MuiFormControl-root-MuiTextField-root"
+>
+  <label
+    className="MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined MuiFormLabel-root MuiFormLabel-colorPrimary css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root"
+    data-shrink={false}
+  >
+    input Field
+  </label>
+  <div
+    className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root"
+    onClick={[Function]}
+  >
+    <input
+      aria-invalid={false}
+      autoFocus={false}
+      className="MuiOutlinedInput-input MuiInputBase-input css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input"
+      disabled={false}
+      name="text"
+      onAnimationStart={[Function]}
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      required={false}
+      type="text"
+      value=""
+    />
+    <fieldset
+      aria-hidden={true}
+      className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+    >
+      <legend
+        className="css-dhh0px"
+      >
+        <span>
+          input Field
+        </span>
+      </legend>
+    </fieldset>
+  </div>
+  
+</div>
+`;

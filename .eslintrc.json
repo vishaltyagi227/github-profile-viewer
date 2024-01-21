@@ -1,0 +1,12 @@
+{
+  "extends": ["airbnb", "airbnb-typescript", "prettier"],
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  },
+  "rules": {
+    "prettier/prettier": "error",
+    "arrow-body-style": ["error", "as-needed"],
+    "react/jsx-props-no-spreading": "off"
+  },
+  "plugins": ["prettier"]
+}

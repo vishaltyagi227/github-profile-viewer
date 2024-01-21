@@ -1,0 +1,46 @@
+export const mockData = {
+  login: 'vishaltyagi-jtg',
+  id: 90435124,
+  node_id: 'MDQ6VXNlcjkwNDM1MTI0',
+  avatar_url: 'https://avatars.githubusercontent.com/u/90435124?v=4',
+  gravatar_id: '',
+  url: 'https://api.github.com/users/vishaltyagi-jtg',
+  html_url: 'https://github.com/vishaltyagi-jtg',
+  followers_url: 'https://api.github.com/users/vishaltyagi-jtg/followers',
+  following_url:
+    'https://api.github.com/users/vishaltyagi-jtg/following{/other_user}',
+  gists_url: 'https://api.github.com/users/vishaltyagi-jtg/gists{/gist_id}',
+  starred_url:
+    'https://api.github.com/users/vishaltyagi-jtg/starred{/owner}{/repo}',
+  subscriptions_url:
+    'https://api.github.com/users/vishaltyagi-jtg/subscriptions',
+  organizations_url: 'https://api.github.com/users/vishaltyagi-jtg/orgs',
+  repos_url: 'https://api.github.com/users/vishaltyagi-jtg/repos',
+  events_url: 'https://api.github.com/users/vishaltyagi-jtg/events{/privacy}',
+  received_events_url:
+    'https://api.github.com/users/vishaltyagi-jtg/received_events',
+  type: 'User',
+  site_admin: false,
+  name: 'Vishal Tyagi',
+  company: null,
+  blog: '',
+  location: 'Meerut',
+  email: null,
+  hireable: null,
+  bio: 'Computer Science and Engineering Student. ',
+  twitter_username: null,
+  public_repos: 1,
+  public_gists: 0,
+  followers: 0,
+  following: 0,
+  created_at: '2021-09-10T03:15:43Z',
+  updated_at: '2021-10-18T10:31:38Z',
+  private_gists: 0,
+  total_private_repos: 0,
+  owned_private_repos: 0,
+  disk_usage: 0,
+  collaborators: 0,
+  two_factor_authentication: false,
+};
+
+export const userList = [mockData];

@@ -1,0 +1,135 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ProfileTemplate /> Snapshot Should match with Snapshot 1`] = `
+<div
+  className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root makeStyles-profileContent-10 css-bhp9pd-MuiPaper-root-MuiCard-root"
+>
+  <div
+    className="makeStyles-avtarWrapper-11"
+  >
+    <div
+      className="MuiAvatar-root MuiAvatar-circular makeStyles-avatar-12 css-1wlk0hk-MuiAvatar-root"
+    >
+      <img
+        alt="vishal"
+        className="MuiAvatar-img css-1pqm26d-MuiAvatar-img"
+        src="https://dummyurl.com/img"
+      />
+    </div>
+  </div>
+  <div
+    className="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+  >
+    <h4
+      className="MuiTypography-root MuiTypography-h4 MuiTypography-gutterBottom makeStyles-userName-13 css-yeserc-MuiTypography-root"
+    >
+      vishal
+    </h4>
+    <h6
+      className="MuiTypography-root MuiTypography-subtitle1 makeStyles-bio-14 css-10wpov9-MuiTypography-root"
+    >
+      Mock bio
+    </h6>
+    <div
+      className="makeStyles-infoWrapper-15"
+    >
+      <div>
+        <p
+          className="MuiTypography-root MuiTypography-body1 makeStyles-info-16 css-ahj2mt-MuiTypography-root"
+        >
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium makeStyles-icon-17 css-i4bv87-MuiSvgIcon-root"
+            data-testid="PeopleIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z"
+            />
+          </svg>
+           Followers 
+          0
+        </p>
+        <p
+          className="MuiTypography-root MuiTypography-body1 makeStyles-info-16 css-ahj2mt-MuiTypography-root"
+        >
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium makeStyles-icon-17 css-i4bv87-MuiSvgIcon-root"
+            data-testid="PeopleIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z"
+            />
+          </svg>
+           Following 
+          0
+        </p>
+      </div>
+      <div>
+        <p
+          className="MuiTypography-root MuiTypography-body1 makeStyles-info-16 css-ahj2mt-MuiTypography-root"
+        >
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium makeStyles-icon-17 css-i4bv87-MuiSvgIcon-root"
+            data-testid="EmailIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4-8 5-8-5V6l8 5 8-5v2z"
+            />
+          </svg>
+          Email not found
+        </p>
+        <p
+          className="MuiTypography-root MuiTypography-body1 makeStyles-info-16 css-ahj2mt-MuiTypography-root"
+        >
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium makeStyles-icon-17 css-i4bv87-MuiSvgIcon-root"
+            data-testid="LocationOnIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"
+            />
+          </svg>
+          Meerut
+        </p>
+      </div>
+    </div>
+  </div>
+  <div
+    className="MuiCardActions-root MuiCardActions-spacing css-1t6e9jv-MuiCardActions-root"
+  >
+    <a
+      className="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root makeStyles-profileBtn-18 css-1e6y48t-MuiButtonBase-root-MuiButton-root"
+      href="https://github.com/dummyvishal"
+      onBlur={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      rel="noopener"
+      tabIndex={0}
+      target="_blank"
+    >
+      Github Profile
+    </a>
+    
+  </div>
+</div>
+`;

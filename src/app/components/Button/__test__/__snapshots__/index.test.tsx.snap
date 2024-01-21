@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Button /> Snapshot Should match with Snapshot when button is disabled 1`] = `
+<button
+  className="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root Mui-disabled makeStyles-btn-3 css-1e6y48t-MuiButtonBase-root-MuiButton-root"
+  disabled={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onContextMenu={[Function]}
+  onDragLeave={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onKeyUp={[Function]}
+  onMouseDown={[Function]}
+  onMouseLeave={[Function]}
+  onMouseUp={[Function]}
+  onTouchEnd={[Function]}
+  onTouchMove={[Function]}
+  onTouchStart={[Function]}
+  tabIndex={-1}
+  type="button"
+>
+  Test Button
+</button>
+`;
+
+exports[`<Button /> Snapshot Should match with Snapshot when button is not disabled 1`] = `
+<button
+  className="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root makeStyles-btn-3 css-1e6y48t-MuiButtonBase-root-MuiButton-root"
+  disabled={false}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onContextMenu={[Function]}
+  onDragLeave={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onKeyUp={[Function]}
+  onMouseDown={[Function]}
+  onMouseLeave={[Function]}
+  onMouseUp={[Function]}
+  onTouchEnd={[Function]}
+  onTouchMove={[Function]}
+  onTouchStart={[Function]}
+  tabIndex={0}
+  type="button"
+>
+  Test Button
+</button>
+`;
