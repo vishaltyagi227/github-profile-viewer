@@ -1,8 +1,18 @@
-# Assignment 3
+# Github Profile Viewer
 
 ## Description
 
-This is a github profile viewer project bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a GitHub profile viewer project bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![image](https://github.com/vishaltyagi227/github-profile-viewer/assets/73596618/66340e92-e9e9-421d-ab81-62944aa97c5a)
+
+# Login Credentials:
+
+`Username`: Your Github username
+
+`Token`: Personal Access Token(PAT) of Github.
+> **Note**: If you don't have the Access token, then you can follow the GitHub guide to generate the access token. [GitHub Guide Link](https://docs.github.com/en/enterprise-server@3.9/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token)
+
 
 ## How to run on your machine
 
